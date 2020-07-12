@@ -1,0 +1,143 @@
+body{
+  margin: 0;
+  text-align: center;
+ color: #40514E;
+  font-family: sans-serif;
+
+}
+h1{
+  margin: 0;
+  font-size: 50px;
+  font-family: 'Kaushan Script', cursive;
+  color: #01a9b4;
+}
+h2{
+  font-family: 'Galada', cursive;
+  font-size: 40px;
+  color: #01a9b4;
+}
+h3{
+  font-family: 'Galada', cursive;
+  font-size: 30px;
+  color: #01a9b4;
+}
+.h-1{
+  color: #01a9b4;
+  text-align: center;
+  margin-bottom: 100px;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #99d8d0;
+  border-width: 5px;
+  width: 8%;
+}
+.hr-1{
+  margin-top: 50px;
+}
+.skills-row{
+  width: 50%;
+  margin: 10px auto 100px auto;
+  text-align: left;
+
+}
+.profile{
+  width: 50%;
+  margin: auto;
+}
+.skill-row{
+  margin-top: 100px;
+}
+p{
+  font-size: 20px;
+  line-height: 2;
+}
+.p1{
+  font-size: 30px;
+  color: #01a9b4;
+  font-family: 'Galada', cursive;
+}
+.top-container{
+  background-color: #b7efcd;
+  padding: 10%;
+}
+
+
+ .upper-cloud{
+   position: absolute;
+   top:80px;
+   right: 280px;
+ }
+ .bottom-cloud{
+   position: absolute;
+ }
+.contact-me{
+  padding: 20px;
+
+}
+.bottom-container{
+background-color: #b7efcd;
+    margin-top: 20px;
+    padding: 50px 0 20px;
+}
+.p-last{
+  margin-bottom: 40px;
+}
+.samuel-img{
+  margin-top: 20px;
+}
+.chillies-img{
+  width: 25%;
+  margin-top: 40px;
+  float: left;
+  margin-right: 30px;
+}
+.computer-img{
+  width: 25%;
+    margin-top: 40px;
+  float: right;
+  margin-left: 30px;
+}
+.myButton {
+	box-shadow: 0px 0px 0px 2px #276873;
+	background:linear-gradient(to bottom, #599bb3 5%, #408c99 100%);
+	background-color:#599bb3;
+	border-radius:10px;
+	border:1px solid #29668f;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:20px;
+	font-weight:bold;
+	padding:16px 32px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #3d768a;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #408c99 5%, #599bb3 100%);
+	background-color:#408c99;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+a{
+color: #01a9b4;
+font-family: 'Galada', cursive;
+margin: 10px 20px;
+text-decoration: none;
+font-size: 25px;
+}
+a:hover{
+  color: white;
+}
+.copyright{
+  color: #EAF6F6;
+  font-family: fantasy;
+  font-size: 20px;
+  margin: 10px 20px;
+
+}
